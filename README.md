@@ -1,1 +1,1 @@
-Artificial-Intelligence-Practicals
+https://github.com/anushkabaraii/Artificial-Intelligence-Practicals.git
